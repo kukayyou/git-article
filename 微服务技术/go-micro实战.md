@@ -1,3 +1,5 @@
+本文介绍使用gin+go-micro+consul搭建微服务
+
 go-micro git地址：https://github.com/micro/go-micro
 安装指令：go get -u github.com/micro/go-micro
 
@@ -61,7 +63,7 @@ a75b434ca6df   213e00e87c53  "docker-entrypoint.s…"   53 seconds ago  Up 52 se
 		
 4. 使用go-micro和consul实现服务注册和管理
 	
-		
-		
-		
-		
+	
+	
+	
+	
